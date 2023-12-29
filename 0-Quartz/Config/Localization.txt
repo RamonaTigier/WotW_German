@@ -1,0 +1,18 @@
+﻿Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+
+quartzSettingGeneral,UI,Menu,,,"General",,"Allgemein"
+quartzSettingGeneralTooltip,UI,Menu,,,"General settings for Quartz",,"Allgemeine Einstellungen für Quartz"
+quartzSettingDebug,UI,Menu,x,,Debug
+quartzSettingDebugTooltip,UI,Menu,,,"Debugging settings for Quartz",,"Debugging Einstellungen für Quartz"
+quartzSettingTextResolution,UI,Menu,,,"Text Resolution",,"Textauflösung"
+quartzSettingTextResolutionTooltip,UI,Menu,,,"Sets the Text resolution. If set to high, may cause flickering of the UI every so often",,"Legt die Textauflösung fest. Wenn sie zu hoch eingestellt ist, kann die Benutzeroberfläche gelegentlich flackern."
+quartzSettingDebugMode,UI,Menu,x,,Debug Mode
+quartzSettingDebugModeTooltip,UI,Menu,,,"Enables or disable Quartz debug mode",,"Aktiviert oder deaktiviert den Quartz-Debug-Modus"
+quartzSettingInventory,UI,Menu,,,Inventory,Inventar
+quartzSettingInputInventoryTooltip,UI,Menu,,,"Inventory Player Control Bindings",,"Inventar Spieler-Kontrollbindungen"
+quartzSettingInputLockedSlots,UI,Menu,x,,"Lock Slots",,"Plätze sperren"
+quartzSettingInputLockedSlotsTooltip,UI,Menu,,,"Locks or Unlocks inventory slot when the slot is clicked on",,"Sperrt oder entsperrt den Inventarsteckplatz, wenn auf den Steckplatz geklickt wird"
+quartzUiSpriteWindowHeader,UI,Menu,x,,"UIAtlas Sprites"
+quartzXuiExport,UI,Menu,x,,"Export Sprites"
+quartzXuiExplorer,UI,Menu,,,"Open Export Folder",,"Öffne Export Ordner"
+quartzTooltipShowModSprites,UI,Menu,,,"Switch to show modded UIAtlas sprites",,"Schalter zum Anzeigen von modifizierten UIAtlas sprites"

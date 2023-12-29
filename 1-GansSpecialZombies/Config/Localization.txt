@@ -1,0 +1,5 @@
+﻿Key,File,Type,english,japanese
+
+zombieWarZombie,zombies,ZombieName,Colonel Klink,クリンク大佐
+zombieWarZombieV1,zombies,ZombieName,Colonel Lynch,リンチ大佐
+zombieWhiteClown,zombies,ZombieName,White Clown,白ピエロ

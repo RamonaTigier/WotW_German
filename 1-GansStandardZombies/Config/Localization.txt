@@ -1,0 +1,10 @@
+﻿Key,File,Type,english,japanese
+
+zombieCarl,zombies,ZombieName,Carl,カール
+zombieGirl,zombies,ZombieName,Olive,オリーブ
+zombieHugh,zombies,ZombieName,Papa Hugh,パパ・ヒュー
+zombieHughFeral,zombies,ZombieName,Papa Hugh Feral,残忍パパ・ヒュー
+zombieHughRadiated,zombies,ZombieName,Papa Hugh Radiated,被爆パパ・ヒュー
+zombieRekt,zombies,ZombieName,Rekt,レクト
+zombieRektFeral,zombies,ZombieName,Rekt Feral,残忍レクト
+zombieRektRadiated,zombies,ZombieName,Rekt Radiated,被爆レクト
